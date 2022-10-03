@@ -4,7 +4,7 @@ First project with react and styling the pokedex.
 
 <details>
     <summary> Images </summary>
-![](imgs/StylingPOKEDEX.png)
+![](imgs/StylingPOKEDEX-small.png)
 </details>
 
 <details>
