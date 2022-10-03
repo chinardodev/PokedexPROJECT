@@ -1,12 +1,14 @@
-##### Pokedex
+### Pokedex
 
-<h5>First project with react and styling a pokedex.</h5>
+<hr>
+
+<h4>First project with react and styling a pokedex.</h4>
 
 ![](imgs/StylingPOKEDEX.png)
 
 <hr>
 
-<h5>What I Learned</h5>
+<h4>What I Learned</h4>
 
 <ul>
     <li>Improve my skills with react, classes, styles in CSS.</li>
