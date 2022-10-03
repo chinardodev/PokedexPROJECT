@@ -1,8 +1,17 @@
-# Pokedex
+##### Pokedex
 
-First project with react and styling the pokedex.
+#####First project with react and styling a pokedex.
 
 ![](imgs/StylingPOKEDEX.png)
+
+<hr>
+
+#####What I Learned
+
+<ul>
+    <li>Improve my skills with react, classes, styles in CSS.</li>
+    <li>Refresh code to keep learning.</li>
+</ul>
 
 <details>
     <summary>How to run it(n stuff)</summary>
