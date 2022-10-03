@@ -2,12 +2,6 @@
 
 First project with react and styling the pokedex.
 
-##
-
-# Pokedex
-
-First project with react and styling the pokedex.
-
 ![](imgs/StylingPOKEDEX.png)
 
 <details>
